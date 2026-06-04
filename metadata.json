@@ -1,0 +1,8 @@
+{
+  "name": "Pro Football 3D & Career",
+  "description": "A high-performance 3D football game featuring full 11v11 gameplay, career mode, transfers, training exercises, realistic ball physics, intelligent AIs, and custom crowd sounds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
